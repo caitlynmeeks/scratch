@@ -1,4 +1,4 @@
-name = chungusFixedSkeleton
+name = chungtweak2
 type = body+head
 scale = 1
 filename = chungus.fbx
@@ -116,3 +116,4 @@ bs = EyeBlink_L = vrc_lowerlid_left = 0.5
 bs = EyeBlink_R = vrc_lowerlid_right = 0.5
 bs = EyeBlink_L = vrc_blink_left = 0.5
 bs = EyeBlink_R = vrc_blink_right = 0.5
+
