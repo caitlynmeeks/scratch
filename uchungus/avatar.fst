@@ -112,5 +112,7 @@ jointRotationOffset = RightHandThumb1 = (-0.1083035, -0.8617923, -0.129994, -0.4
 jointRotationOffset = RightHandThumb2 = (0.03355909, -0.8408663, -0.07065368, -0.5355615)
 jointRotationOffset = RightHandThumb3 = (-0.06547218, -0.8591571, -0.1110844, -0.4952)
 jointRotationOffset = Big bunny = (-0.7071068, 0, 0, -0.7071067)
-bs = EyeBlink_L =vrc_blink_left = 1
-bs = EyeBlink_R =vrc_blink_right = 1
+bs = EyeBlink_L =vrc_blink_left = 0.5
+bs = EyeBlink_R =vrc_blink_right = 0.5
+bs = EyeBlink_L =vrc_lowerlid_left = 0.5
+bs = EyeBlink_R =vrc_lowerlid_right = 0.5
